@@ -54,11 +54,22 @@ A sleek, responsive, and dynamic weather application built with **HTML**, **Tail
 ```bash
 git clone [YOUR_REPOSITORY_URL]
 cd weather-dashboard
-
+```
 ---
+#### 2.Get an API Key Sign up at WeatherAPI and obtain your personal API key.
+
+#### 3.Add your API key Open script.js and update the key:
+```bash
+const WEATHERAPI_KEY = 'YOUR_WEATHERAPI_KEY_HERE';
+const DEFAULT_CITY = "colombo";
+```
+#### 4.Run the app Simply open index.html in your browser.
+
 ## ⚙ Project Structure
+```bash
 weather-dashboard/
 ├── index.html          # Main structure and layout
 ├── script.js           # JavaScript logic (fetching & UI updates)
 └── style.css           # Custom animations and variables
-
+```
+## 💡 Code Highlights
