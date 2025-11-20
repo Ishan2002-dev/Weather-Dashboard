@@ -73,12 +73,12 @@ weather-dashboard/
 └── style.css           # Custom animations and variables
 ```
 ## 💡 Code Highlights
-- **API Fetching**: fetchWeather(city): Retrieves weather data with error handling.
+- ##### API Fetching  : fetchWeather(city): Retrieves weather data with error handling.
 
 - **UI Updates**: updateWeatherUI(data): Displays current conditions, forecast, and astro information.
 
 - **Utility Functions**:
 
- -- **getDayName()**: Used for labeling forecast days.
+ - **getDayName()**: Used for labeling forecast days.
 
--- **calculateTimeDifference()**: Computes day length.
+- **calculateTimeDifference()**: Computes day length.
