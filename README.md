@@ -79,14 +79,14 @@ weather-dashboard/
 
 - ##### Utility Functions :
 
- ##### getDayName(): Used for labeling forecast days.
+ - - ##### getDayName(): Used for labeling forecast days.
 
-##### calculateTimeDifference(): Computes day length.
+- -  ##### calculateTimeDifference(): Computes day length.
 
 ## 🎨 Styling
 - **Glassmorphism** : Tailwind utilities combined with blur and transparency for modern effects.
-- **fadeInUp** – Smooth component entry.
-- **gentleBob** – Subtle floating motion for icons.
+- - **fadeInUp** – Smooth component entry.
+- - **gentleBob** – Subtle floating motion for icons.
 
 ## 🤝 Contribution
 
